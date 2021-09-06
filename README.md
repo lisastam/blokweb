@@ -40,11 +40,11 @@ https://www.easylifemusic.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="images/home" width="375px" alt="easylife">
+<img src="images/home.png" width="375px" alt="easylife">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/pagina2" width="375px" alt="easylife">
+<img src="images/pagina2.png" width="375px" alt="easylife">
  
 </details>
 
