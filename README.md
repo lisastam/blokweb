@@ -22,7 +22,7 @@ Lisa Stam
 Blauw
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+Surface plane
  
 </details>
 
@@ -39,11 +39,11 @@ hier je focus (kies uit responsive óf surface plane)
 https://www.easylifemusic.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+homepagina 
 <img src="images/home.png" width="375px" alt="easylife">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+videopagina 
 <img src="images/pagina2.png" width="375px" alt="easylife">
  
 </details>
@@ -55,7 +55,7 @@ hier de naam van de pagina
 ## Breakdownschets (week 1)
 
 <details>
-<summary>uitwerken na afloop 2e werkgroep</summary>
+<summary>Deze week was voor mij echt weer het omhoog halen van de stof, hoe werkt het ook al weer. Ik merkte dat de oefen opdrachtjes stap voor stap goed voor mij te doen waren. Af en toe had ik nog wel last van spellingsfouten in mijn css waardoor het niet werkte en ik even vast liep. Ik weet nu wel dat ik de site echt stap voor stap moet gaan maken. Deze week heb ik ook geleerd dat je kunt animeren met css, dat wist ik eerst niet en vind het erg gaaf om te zien dat dat kan. </summary>
 
 ### de hele pagina: 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
