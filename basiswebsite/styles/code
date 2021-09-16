@@ -1,0 +1,37 @@
+header nav ul {
+
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  list-style: none;
+  color: white;
+  position: absolute;
+  top: 3em;
+  right: 2em;
+  left: 2em;
+}
+
+nav li:last-child {
+  border: 2px solid white;
+  background: #e7b8cf;
+  border-radius: 1em;
+  padding: 1em;
+  text-align: center;
+
+}
+
+header nav ul li {
+  margin: 1em;
+  height: 30px;
+}
+
+<nav>
+			<ul>
+				<li>home</li>
+				<li>official store</li>
+				<li>live</li>
+				<li>videos</li>
+				<li>listen</li>
+				<li>newsletter</li>
+			</ul>
+		</nav>
