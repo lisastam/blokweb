@@ -86,20 +86,15 @@ Ik heb eerst voor een groot scherm de site gemaakt en hoorde later dat je eerst 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+vragen: Hoe ver moeten we ongeveer nu zijn?
+Moeten we 2 pagina's helemaal uitwerken?
+Bne ik goed op weg?
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Ik moet even beter kijken naar mijn indeling. Er staan "h"'s in die geen "h"'s zijn. Mijn logo moet wel een "h" worden. Ook moet ik linkjes toevoegen aan klikbare elementen.
 
 </details>
 
@@ -113,26 +108,17 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code) Deze week ben ik al een stuk verder gekomen met mn site. Ik liep wel vast bij mijn hamburgermenu die weg was. De studentenassistent kon mij ook niet helpen dus in de les heeft mijn docent er naar gekeken en bleek dat mijn svg zelf geen width en height had en die dus moest toevoegen om hem zichtbaar te krijgen. Verder ook nog feedback gehad over mijn buttons die linkjes zijn dus die moest veranderen. Ook moet ik mijn tekst die onder mijn "h2" staat veranderen van een img naar tekst met een font. Bij de styling daarvan loop ik vast dus met het gesprek met studentenassistent ga ik daar naar vragen.
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
+Ik heb een p die niet zichtbaar is, dus ik wil hulp daarbij. Ook wil ik dat ze mijn code bekijken om mogelijke foutjes er uit te halen.
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Ik ben goed op weg. Het is leuk als ik mijn menu animeer als ik daar genoeg tijd voor heb. Mijn vraag vooraf is opgelost. 
 
 </details>
 
