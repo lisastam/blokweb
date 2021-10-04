@@ -15,15 +15,16 @@
 
 body {
   background-color: #2e4a91;
-  font-size: 20px;
+  font-size: 1.25em;
   font-family: Arial,
     Helvetica,
     sans-serif;
   color: white;
 }
 
-/*achtergrond video*/
-video {
+/* Achtergrond video */
+/* Bron: https://www.w3schools.com/howto/howto_css_fullscreen_video.asp */
+.background {
   position: fixed;
   right: 0;
   left: 0;
@@ -33,6 +34,8 @@ video {
   min-height: 100%;
   z-index: -100;
 }
+
+/*  Header  */
 
 header {
   max-width: 100%;
@@ -46,19 +49,19 @@ header ul {
 }
 
 
-/*dit is het logo*/
+/*  logo   */
 header ul li:first-child {
-  max-width: 100px;
+  max-width: 2.25em;
   position: relative;
   z-index: 100;
 }
 
 
-/*dit is het hamburgermenu*/
+/*  Hamburgermenu streepjes */
 
 
 header ul li:nth-child(2) {
-  max-width: 100px;
+  max-width: 2.25em;
   position: absolute;
   top: 3em;
   right: 2em;
@@ -66,7 +69,7 @@ header ul li:nth-child(2) {
 }
 
 header ul li:nth-child(3) {
-  max-width: 100px;
+  max-width: 2.25em;
   position: absolute;
   top: 3.75em;
   right: 2em;
@@ -74,14 +77,14 @@ header ul li:nth-child(3) {
 }
 
 header ul li:last-child {
-  max-width: 100px;
+  max-width: 2.25em;
   position: absolute;
   top: 4.5em;
   right: 2em;
   z-index: 100;
 }
 
-/*hiermee geef ik het hamburger menu plaatje een lengte en breedte.*/
+/*  Hiermee geef ik het hamburger menu plaatje een lengte en breedte.  */
 header ul li:nth-child(2),
 header ul li:nth-child(3),
 header ul li:last-child {
@@ -91,7 +94,7 @@ header ul li:last-child {
   transform-origin: left;
 }
 
-
+/*  Animatie kruisje  */
 .kruisje1 {
   transform: rotate(35deg);
 }
@@ -108,12 +111,121 @@ header ul li:last-child {
 
 
 
+/***************/
+/*    MAIN     */
+/***************/
+
+/* animatie images*/
+
+main {
+  display: flex;
+}
+
+main img {
+  width: 35%;
+  position: absolute;
+
+}
+
+main img:nth-child(3) {
+  bottom: -8em;
+  left: 5em;
+}
 
 
 
+main img:nth-child(4) {
+  bottom: -20em;
+  left: 7em;
+}
+
+main img:nth-child(5) {
+  bottom: -35em;
+  left: 3em;
+}
 
 
 
+@keyframes merch {
+  0% {
+    transform: rotate(0);
+  }
+
+  50% {
+    transform: rotate(180deg);
+    bottom: -15em;
+    left: 3em;
+  }
+
+  100% {
+    transform: rotate(0);
+    bottom: -8em;
+    left: 5em;
+  }
+}
+
+main img:nth-child(3):hover {
+  animation-name: merch;
+  animation-duration: 2s;
+}
+
+
+@keyframes video {
+  0% {
+    transform: rotate(0);
+  }
+
+  50% {
+    transform: rotate(180deg);
+    bottom: -15em;
+    left: 9em;
+  }
+
+  100% {
+    transform: rotate(0);
+    bottom: -20em;
+    left: 7em;
+  }
+}
+
+main img:nth-child(4):hover {
+  animation-name: video;
+  animation-duration: 2s;
+}
+
+
+@keyframes shirt {
+  0% {
+    bottom: -35em;
+    left: 3em;
+  }
+
+  25% {
+    left: 9em;
+  }
+
+  50% {
+    left: 3em;
+  }
+
+  75% {
+    left: 9em;
+  }
+
+  100% {
+    left: 3em;
+  }
+}
+
+main img:nth-child(5):hover {
+  animation-name: shirt;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+
+
+/* h2 */
 
 main h2 img {
   max-width: 75%;
@@ -144,6 +256,7 @@ main p:last-of-type {
 
 }
 
+/*  'buttons'   */
 
 main section a:first-of-type,
 main section a:nth-of-type(2) {
@@ -177,6 +290,8 @@ main section a:hover {
 }
 
 
+
+
 /*   HAMBURGER NAV */
 main nav ul {
   position: absolute;
@@ -208,14 +323,14 @@ main nav ul {
 /* De list items geef ik een padding om ze verder van elkaar af te zetten.*/
 main nav ul li {
   display: flex;
-  padding: 12px;
+  padding: 0.75em;
   position: relative;
   top: 7em;
 
 }
 
 
-/*hiermee pas ik "newsletter" aan*/
+/*  Hiermee pas ik "newsletter" aan  */
 main nav li:last-of-type {
   border: 2px solid white;
   background: #e7b8cf;
@@ -242,7 +357,7 @@ main nav ul li a {
 
 footer {
   display: flex;
-  padding: 24px;
+  padding: 1.5em;
 }
 
 
@@ -255,7 +370,7 @@ footer p {
   font-size: 15px;
   position: absolute;
   bottom: -100em;
-  left: 4em;
+  left: 2em;
 
 }
 
@@ -275,17 +390,64 @@ footer img:first-child {
   left: 2em;
 }
 
+
+
+/************/
+/*  VIDEO`S  */
+/*************/
+
 section {
   display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+  margin: 0.4em;
+}
+
+main section div video {
+  max-width: 100%;
+}
+
+main section div:first-child {
+  margin-top: 8em;
+}
+
+main section div:nth-child(2) {
+  margin-top: 11em;
+}
+
+main section div:nth-child(3) {
+  margin-top: 4em;
+}
+
+main section div:nth-child(4) {
+  margin-top: 7em;
 
 }
 
-section video {
-  max-width: 75%;
-  width: 10px;
-  height: 10px;
-  flex-wrap: wrap;
-  position: absolute;
-  padding: 2em;
-  top: 9em;
+main section div:nth-child(5) {
+  margin-top: 4em;
+
+}
+
+main section div:nth-child(6) {
+  margin-top: 7em;
+
+}
+
+main section div:nth-child(7) {
+  margin-top: 4em;
+
+}
+
+main section div:nth-child(8) {
+  margin-top: 7em;
+}
+
+main section div h3 {
+  font-size: 0.9em;
+  margin: 0.2em;
+  font-weight: 400;
+  display: block;
+  text-align: center;
 }
