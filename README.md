@@ -130,32 +130,33 @@ Ik ben goed op weg. Het is leuk als ik mijn menu animeer als ik daar genoeg tijd
 
 <details>
 <summary>uitwerken na test in 8e voortgang</summary>
+Mijn site was totaal niet toegankelijk kwam ik achter. Wel vond ik het een leuke les om te testen. Als ik mijn site toegankelijk wil hebben zou ik veel informatie moeten verzamelen en die info gebruiken.
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
-
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+- Tab toetsen werkt niet lekker.
+- Brillen werkte wel bij mijn site.
+- windows en apple is verschil.
+- met parkingson is het niet te doen (denk ik).
 
 
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### "tab"
+Ik heb een menu die uitklapt als je op een knop drukt. Maar als je met tab toetsen door mijn site gaat pakt hij die ook mee, terwijl deze nog onzichtbaar is.
+
+Als ik een toegankelijke site ooit ga bouwen zou ik op internet of bij andere om hulp vragen om dat te fixen.
+
+#### brillen. 
+Ook zijn de brillen gebruikt bij testen. Daar kwam mijn site wel goed uit. Het enigste wat soms slecht te zien was is de witte tekst, maar dat viel wel mee.
+
+#### widows/apple. 
+Ik heb de toegankelijkheids test gedaan met een klasgenoot die een windows had en bij ons allebij ging het anders. Bij mijn klasgenoot las hij wel de footer voor en bij mij apple niet. 
+Dat is ook iets waar ik meer informatie over zou zoeken als ik echt een keer een website maak.
 
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### parkingson. 
+Verder is mijn site getest met een shok apparaat (parkingson), dat was niet echt te doen. Misschien omdat we het ook niet gewent zijn die shokken te hebben. 
+Als ik een site toegankelijk zou willen hebben voor iemand met parkingson zou ik eerst onderzoek doen naar wat iemand met parkingson wel kan, en daar op in spelen. 
 
 </details>
 
@@ -169,26 +170,19 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+DE eerste les heb ik gewerkt aan mijn animatie. Ik heb Vasilis om advies gevraagt en ben aan de slag gegaan. Ik had mn animatie bijna helemaal werkend en met de laatste details heeft vasilis mij geholpen. 
+
+Daarna heb aan de 2e pagina gewerkt en kwam al snel tegen een probleem aan, hoe ga ik de videos positioneren? Hiervoor ben ik bij studentassisten geweest. Samen kwamen we er nog niet echt uit en heeft Vasilis mij geholpen. Ik ben wel echt er achter gekomen dat mijn site best wel moeilijk is. Vooral voor iemand die de blauwe piste heeft. Maar wanneer het dan wel lukt voelt het extra goed dat ik het kan.
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
+ik ben op schema 
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
 
 </details>
 
