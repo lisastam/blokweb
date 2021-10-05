@@ -187,7 +187,7 @@ Ik vind het een leuk vak, wanneer alles lukt. Helaas was dit niet altijd zo en w
 ### Screenshot(s)
 
 <img >
-<img src="images/mijnpagina1.png" width="375px" alt="easylife">
+<img src="images/pagina1.png" width="375px" alt="easylife">
 <img src="images/mijnpagina2.png" width="375px" alt="easylife">
 </details>
 
