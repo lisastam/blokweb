@@ -115,11 +115,7 @@ header ul li:last-child {
 /*    MAIN     */
 /***************/
 
-/* animatie images*/
-
-main {
-  display: flex;
-}
+/* animatie images */
 
 main img {
   width: 35%;
@@ -234,7 +230,6 @@ main h2 img {
   left: 1.5em;
   right: 2em;
   z-index: -50;
-  margin-top: 0;
   width: 10em;
   height: 6em;
 }
@@ -263,15 +258,12 @@ main section a:nth-of-type(2) {
   border: 2px solid white;
   background: #e7b8cf;
   border-radius: 1em;
-  padding: 1em;
   text-align: center;
   position: absolute;
   padding: 8px 24px;
   font-size: 18px;
   left: 7em;
   bottom: 11em;
-  display: flex;
-  font-weight: 400;
   color: white;
   text-decoration: none;
 }
@@ -322,7 +314,6 @@ main nav ul {
 /*   HAMBURGERMENU LI  */
 /* De list items geef ik een padding om ze verder van elkaar af te zetten.*/
 main nav ul li {
-  display: flex;
   padding: 0.75em;
   position: relative;
   top: 7em;
@@ -337,7 +328,7 @@ main nav li:last-of-type {
   border-radius: 1em;
   padding: 8px 24px;
   text-align: center;
-  max-width: 50%;
+  max-width: 8em;
 
 
 }
@@ -366,7 +357,6 @@ footer p {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  flex-wrap: wrap;
   font-size: 15px;
   position: absolute;
   bottom: -100em;
@@ -416,33 +406,18 @@ main section div:nth-child(2) {
   margin-top: 11em;
 }
 
-main section div:nth-child(3) {
-  margin-top: 4em;
-}
-
-main section div:nth-child(4) {
-  margin-top: 7em;
-
-}
-
-main section div:nth-child(5) {
-  margin-top: 4em;
-
-}
-
-main section div:nth-child(6) {
-  margin-top: 7em;
-
-}
-
+main section div:nth-child(3),
+main section div:nth-child(5),
 main section div:nth-child(7) {
   margin-top: 4em;
-
 }
 
+main section div:nth-child(4),
+main section div:nth-child(6),
 main section div:nth-child(8) {
   margin-top: 7em;
 }
+
 
 main section div h3 {
   font-size: 0.9em;
