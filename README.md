@@ -34,6 +34,7 @@ Surface plane
 
 <details open>
 <summary>uitwerken voor kick-off werkgroep</summary>
+Ik ben flink aan het zoeken geweest naar een leuke site om na te maken. Ik wilde geen saaie "normale" site dus ben wat creatieve artiesten af gegaan. Dezde site kwam ik tegen en leek mij een leuke om aan te werken. 
 
 ### Je opdracht:home
 https://www.easylifemusic.com/
@@ -58,14 +59,7 @@ videopagina
 <summary>Deze week was voor mij echt weer het omhoog halen van de stof, hoe werkt het ook al weer. Ik merkte dat de oefen opdrachtjes stap voor stap goed voor mij te doen waren. Af en toe had ik nog wel last van spellingsfouten in mijn css waardoor het niet werkte en ik even vast liep. Ik weet nu wel dat ik de site echt stap voor stap moet gaan maken. Deze week heb ik ook geleerd dat je kunt animeren met css, dat wist ik eerst niet en vind het erg gaaf om te zien dat dat kan.
 Voor mijn site heb ik alle content op de pagina ingedeeld en in de html gezet. Nu ziet het er nog heel lelijk uit. </summary>
 
-### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
-### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -79,12 +73,10 @@ Voor mijn site heb ik alle content op de pagina ingedeeld en in de html gezet. N
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-Ik heb eerst voor een groot scherm de site gemaakt en hoorde later dat je eerst beter een klein scherm kan doen. Dus heb ik de code bewaard en aan een klein scherm gaan werken. Ik merk wel dat ik het voor een klein scherm goed kan positioneren maar dat het als het een groot scherm wordt.
+Ik heb eerst voor een groot scherm de site gemaakt en hoorde later dat je eerst beter een klein scherm kan doen. Dus heb ik de code bewaard en aan een klein scherm gaan werken. Tot nu toe gaat het wel goed. Ik heb een achtergrond video er in gezet en ben blij dat dat is gelukt.
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
 
 vragen: Hoe ver moeten we ongeveer nu zijn?
 Moeten we 2 pagina's helemaal uitwerken?
@@ -92,7 +84,6 @@ Bne ik goed op weg?
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
 
 Ik moet even beter kijken naar mijn indeling. Er staan "h"'s in die geen "h"'s zijn. Mijn logo moet wel een "h" worden. Ook moet ik linkjes toevoegen aan klikbare elementen.
 
@@ -108,7 +99,7 @@ Ik moet even beter kijken naar mijn indeling. Er staan "h"'s in die geen "h"'s z
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code) Deze week ben ik al een stuk verder gekomen met mn site. Ik liep wel vast bij mijn hamburgermenu die weg was. De studentenassistent kon mij ook niet helpen dus in de les heeft mijn docent er naar gekeken en bleek dat mijn svg zelf geen width en height had en die dus moest toevoegen om hem zichtbaar te krijgen. Verder ook nog feedback gehad over mijn buttons die linkjes zijn dus die moest veranderen. Ook moet ik mijn tekst die onder mijn "h2" staat veranderen van een img naar tekst met een font. Bij de styling daarvan loop ik vast dus met het gesprek met studentenassistent ga ik daar naar vragen.
+Deze week ben ik al een stuk verder gekomen met mn site. Ik liep wel vast bij mijn hamburgermenu die weg was. De studentenassistent kon mij ook niet helpen dus in de les heeft mijn docent er naar gekeken en bleek dat mijn svg zelf geen width en height had en die dus moest toevoegen om hem zichtbaar te krijgen. Verder ook nog feedback gehad over mijn buttons die linkjes zijn dus die moest veranderen. Ook moet ik mijn tekst die onder mijn "h2" staat veranderen van een img naar tekst met een font. Bij de styling daarvan loop ik vast dus met het gesprek met studentenassistent ga ik daar naar vragen.
 
 
 ### Agenda voor meeting
@@ -117,8 +108,7 @@ Ik heb een p die niet zichtbaar is, dus ik wil hulp daarbij. Ook wil ik dat ze m
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-Ik ben goed op weg. Het is leuk als ik mijn menu animeer als ik daar genoeg tijd voor heb. Mijn vraag vooraf is opgelost. 
+Ik ben goed op weg. Het is leuk als ik mijn menu animeer als ik daar genoeg tijd voor heb. Mijn vraag vooraf is opgelost door een z-index te gebruiken.
 
 </details>
 
@@ -170,18 +160,12 @@ Als ik een site toegankelijk zou willen hebben voor iemand met parkingson zou ik
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-DE eerste les heb ik gewerkt aan mijn animatie. Ik heb Vasilis om advies gevraagt en ben aan de slag gegaan. Ik had mn animatie bijna helemaal werkend en met de laatste details heeft vasilis mij geholpen. 
+De eerste les deze week heb ik gewerkt aan mijn animatie. Ik heb Vasilis om advies gevraagt en ben aan de slag gegaan. Ik had mn animatie bijna helemaal werkend en met de laatste details heeft vasilis mij geholpen. Helemaal blij dat hij werkt! 
 
-Daarna heb aan de 2e pagina gewerkt en kwam al snel tegen een probleem aan, hoe ga ik de videos positioneren? Hiervoor ben ik bij studentassisten geweest. Samen kwamen we er nog niet echt uit en heeft Vasilis mij geholpen. Ik ben wel echt er achter gekomen dat mijn site best wel moeilijk is. Vooral voor iemand die de blauwe piste heeft. Maar wanneer het dan wel lukt voelt het extra goed dat ik het kan.
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
+Daarna heb aan de 2e pagina gewerkt en kwam al snel tegen een probleem aan, hoe ga ik de videos positioneren? Hiervoor ben ik bij studentassisten geweest. Samen kwamen we er nog niet echt uit en heeft Vasilis ons geholpen. Ik ben wel echt er achter gekomen dat mijn site best wel moeilijk is. Vooral voor iemand die de blauwe piste heeft. Maar wanneer het dan wel lukt voelt het extra goed dat ik het kan.
 
 
 
-### Verslag van meeting
-ik ben op schema 
 
 
 </details>
@@ -196,12 +180,15 @@ ik ben op schema
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
+Over het algemeen liep ik vaak vast in mn code. Goed kijken, veel proberen heeft mij hier uit geholpen. Ook werkte de flexbox niet zoals ik wilde en heb ik daarom veel position gebruikt omdat ik die helemaal snap en super handig vind. Ik heb dit vak super veel geleerd over css. Van veel dingen wist ik niet dat het kon met css zoals animeren. Ook dingen als grid, position en zindex waren nieuw voor mij maar snap ik nu wel. 
+Ik vind het een leuk vak, wanneer alles lukt. Helaas was dit niet altijd zo en werd ik soms wel moe van het oneindig zoeken naar de oplossing. Maar als het daarna wel lukt voelt het juist weer deste beter. Zoals toen wanneer mijn animatie lukte werdt ik daar erg blij van en heb ik die animatie 100 keer laten afspelen vom er naar te kijken hoe goed hij werkte. 
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
-
+<img >
+<img src="images/mijnhome.png" width="375px" alt="easylife">
+<img src="images/mijnpagina2.png" width="375px" alt="easylife">
 </details>
 
 
@@ -215,8 +202,9 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://www.w3schools.com/howto/howto_css_fullscreen_video.asp
+2. De lessen
+3. Studentassistenten en Vasilis
+
 
 </details>
